@@ -29,7 +29,7 @@ To develop the project, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/emreertugrul7/redux_thunk_yemeksepeti
+   git clone https://github.com/emreertugrl/redux_thunk_yemeksepeti.git
    ```
 2. Navigate to the project directory:
 
@@ -57,7 +57,7 @@ To develop the project, follow these steps:
 
 ## Visual
 
-<img src="/gif/yemeksepeti.gif" alt="yemeksepeti-app-gif">
+<img src="/public/gif/yemeksepeti.gif" alt="yemeksepeti-app-gif">
 
 ## API
 
